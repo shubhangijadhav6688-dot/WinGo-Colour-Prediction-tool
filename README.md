@@ -82,4 +82,4 @@ This project is licensed for educational and experimental use only. No affiliati
 
 ## 🤝 Contributing
 
-Feel free to fork this repo and enhance prediction logic, design, or add analytics. Pull requests are welcome.
+Feel free to fork this repo and enhance prediction logic, design, or add analytics. Pull requests are welcome.Draw #1234: [🟢] Green & Purple  [Win] [Lose]
